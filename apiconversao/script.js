@@ -41,6 +41,7 @@ function converter() {
           })
   }
   
-  function calcularConversaoMoeda(entrada, bid){
-    return entrada * bid;
-  }
+
+function calcularConversaoMoeda(entrada, bid){
+  return entrada * bid;
+}
